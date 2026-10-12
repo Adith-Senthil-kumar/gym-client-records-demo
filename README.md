@@ -1,5 +1,7 @@
 # Gym Client Records & Insights — Demo
 
+**Live demo: https://gym-client-records-demo.vercel.app**
+
 A frontend-only demo shown to gym owners and personal trainers to validate the
 idea. No server, no database, no auth. Data lives in `localStorage` behind a
 repository layer, seeded with realistic history generated **relative to today**
